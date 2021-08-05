@@ -1,7 +1,7 @@
 # Azure Data Factory Tutorial
 
 - Ready Data Factory Pipelines
-https://github.com/atingupta2005/adf-apr-21.git
+   - https://github.com/atingupta2005/adf-apr-21.git
 
 - Create a new Azure Data Factory resource in Azure and specify details of Github URL specified above while creating your Data Factory
 
